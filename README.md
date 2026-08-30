@@ -1,16 +1,41 @@
-## Hi there 👋
+# Vartom Labs
 
-<!--
-**vartomlabssolo/vartomlabssolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We build simple, thoughtful software products designed to help people make better decisions, understand information, and get things done.
 
-Here are some ideas to get you started:
+## Products
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Typely
+
+**A simple workspace for understanding text.**
+
+Typely is a free text analyzer for counting words, characters, sentences, paragraphs, and lines, estimating reading and speaking time, and transforming text without unnecessary complexity.
+
+**[Try Typely →](https://typely.vartomlabs.com/)**
+
+### VETO
+
+**Think before you spend.**
+
+VETO is a free purchase decision tool that helps you evaluate a purchase before spending money. It considers affordability, value, timing, and cost per use to turn a simple buying question into a clearer decision.
+
+**[Try VETO →](https://veto.vartomlabs.com/)**
+
+## What we care about
+
+* Simple products over complicated interfaces
+* Useful tools over unnecessary features
+* Privacy-conscious design
+* Fast, accessible experiences
+* Software that helps people think and act more clearly
+
+## Connect
+
+* [Website](https://vartomlabs.com/)
+* [X](https://x.com/vartomlabs)
+* [LinkedIn](https://www.linkedin.com/in/vartom-labs-ba5481428/)
+* [Instagram](https://www.instagram.com/vartomlabs/)
+* [Reddit](https://www.reddit.com/user/VartomLabs/)
+
+---
+
+**Vartom Labs** · Building useful software, one product at a time.
